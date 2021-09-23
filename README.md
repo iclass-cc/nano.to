@@ -72,10 +72,6 @@ Gives us the following response
 }
 ```
 
-## Rate Limiting
-
-Our entire API is rate limited to prevent abuse. If you need lots of simultaneous API calls, please let us know in advanced by emailing hello[at]forward.miami, subject line 'Api Use'. 
-
 ## 👤 Former Author
 
 **Formsend.org**
